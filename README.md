@@ -1,6 +1,8 @@
 # CCI-Coding-One-Homework
 ## **Link to weekly homework on MIMIC**
 
+Github: https://github.com/RebeccaSY/CCI-Coding-One-Homework.git
+
 WEEK 1:  
 https://mimicproject.com/code/c390555d-d21c-a38d-8cd8-895eb38b589d
 
